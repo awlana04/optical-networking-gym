@@ -30,6 +30,8 @@ dev = [
     "mypy",
     "pytest",
     "coverage[toml]",
+    "langchain_core",
+    "langchain_ollama",
 ]
 
 research = [
